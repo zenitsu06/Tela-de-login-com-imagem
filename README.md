@@ -1,1 +1,1 @@
-<img src="tela/foto.png" width="100px" height="100px">
+<img src="tela/foto.png" width="50px" height="auto">
